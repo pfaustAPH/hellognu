@@ -1,3 +1,7 @@
+2024-04-01  Paul Faust  <pfaust@aph.org>
+
+	* installed hydraulic/conveyor: make codesigning possible.
+
 2010-04-05  Karl Berry  <karl@gnu.org>
 
 	* build-aux/srclist.txt: new file, input to (Gnulib's) srclist-update.
